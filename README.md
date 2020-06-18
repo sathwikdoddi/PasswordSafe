@@ -18,7 +18,7 @@ function passwords() {
     mv safe2.py safe.py
     echo Saved Passwords and Updated Safe!
     cd
-}```
+}
   
 ### Change the password from "sathwikdoddi" to a password of your choice on line 39
 
